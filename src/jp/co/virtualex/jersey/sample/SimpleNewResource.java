@@ -8,6 +8,7 @@ public class SimpleNewResource {
 	 * Add Comment 3
 	 * Add Comment 4
 	 * Add Comment 5
+	 * Add Comment 6
 	 */
 
 }
