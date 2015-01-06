@@ -14,10 +14,10 @@ import javax.ws.rs.core.MediaType;
  * 
  * <pre>
  * {
- *     "name1": "EEE",
- *     "name2": "FFF",
- *     "name3": "GGG",
- *     "name4": "HHH"
+ *     "name1": "III",
+ *     "name2": "JJJ",
+ *     "name3": "KKK",
+ *     "name4": "LLL"
  * }
  * </pre>
  * 
@@ -31,10 +31,10 @@ public class JsonResource {
 	@Produces(MediaType.APPLICATION_JSON)
 	public JsonResultDto hello() {
 		JsonResultDto dto = new JsonResultDto();
-		dto.setName1("EEE");
-		dto.setName2("FFF");
-		dto.setName3("GGG");
-		dto.setName4("HHH");
+		dto.setName1("III");
+		dto.setName2("JJJ");
+		dto.setName3("KKK");
+		dto.setName4("LLL");
 		return dto;
 	}
 }
