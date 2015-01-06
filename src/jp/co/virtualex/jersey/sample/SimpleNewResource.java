@@ -4,6 +4,7 @@ public class SimpleNewResource {
 	
 	/**
 	 * Add Comment
+	 * Add Comment 2
 	 */
 
 }
