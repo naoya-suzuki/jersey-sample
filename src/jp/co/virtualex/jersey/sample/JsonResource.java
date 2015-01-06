@@ -17,7 +17,7 @@ import javax.ws.rs.core.MediaType;
  *     "name1": "III",
  *     "name2": "JJJ",
  *     "name3": "KKK",
- *     "name4": "LLL"
+ *     "name4": "MMM"
  * }
  * </pre>
  * 
@@ -34,7 +34,7 @@ public class JsonResource {
 		dto.setName1("III");
 		dto.setName2("JJJ");
 		dto.setName3("KKK");
-		dto.setName4("LLL");
+		dto.setName4("MMM");
 		return dto;
 	}
 }
